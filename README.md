@@ -16,8 +16,8 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 * First, clone the repository and enter the folder
 
 ```bash
-git clone https://github.com/atulapra/Emotion-detection.git
-cd Emotion-detection
+git clone https://github.com/varshith-Git/Emotion-Detection.git
+cd Emotion-Detection
 ```
 
 * Download the FER-2013 dataset from [here](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing) and unzip it inside the `src` folder. This will create the folder `data`.
